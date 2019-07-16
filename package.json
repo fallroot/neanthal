@@ -1,0 +1,14 @@
+{
+  "name": "neanthal",
+  "version": "0.1.0",
+  "description": "Neanthal language converter - 네안탈 언어 변환기",
+  "author": "Chookeun Moon <fallroot@gmail.com>",
+  "homepage": "https://github.com/fallroot/neanthal",
+  "keywords": [
+    "hangul",
+    "neanthal"
+  ],
+  "license": "MIT",
+  "scripts": {
+  }
+}
