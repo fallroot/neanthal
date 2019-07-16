@@ -12,5 +12,12 @@
   "scripts": {},
   "dependencies": {
     "jamo": "^0.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "standard": "^13.0.2"
+  },
+  "standard": {
+    "parser": "babel-eslint"
   }
 }
