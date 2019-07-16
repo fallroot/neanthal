@@ -10,6 +10,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "build": "webpack --mode production",
     "test": "jest --coverage --watch test/*"
   },
   "dependencies": {
@@ -19,8 +20,10 @@
     "@babel/preset-env": "^7.5.4",
     "babel-eslint": "^10.0.2",
     "babel-jest": "^24.8.0",
+    "babel-loader": "^8.0.6",
     "jest": "^24.8.0",
-    "standard": "^13.0.2"
+    "standard": "^13.0.2",
+    "webpack": "^4.35.3"
   },
   "babel": {
     "presets": [
