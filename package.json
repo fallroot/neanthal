@@ -9,15 +9,30 @@
     "neanthal"
   ],
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "jest --coverage --watch test/*"
+  },
   "dependencies": {
     "jamo": "^0.1.0"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.5.4",
     "babel-eslint": "^10.0.2",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
     "standard": "^13.0.2"
   },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-env"
+      ]
+    ]
+  },
   "standard": {
+    "env": {
+      "jest": true
+    },
     "parser": "babel-eslint"
   }
 }
