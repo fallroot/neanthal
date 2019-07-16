@@ -9,6 +9,8 @@
     "neanthal"
   ],
   "license": "MIT",
-  "scripts": {
+  "scripts": {},
+  "dependencies": {
+    "jamo": "^0.1.0"
   }
 }
