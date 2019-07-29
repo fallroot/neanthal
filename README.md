@@ -17,7 +17,7 @@ $ npm install neanthal
 ```
 또는
 ```html
-<script src="https://raw.githubusercontent.com/fallroot/neanthal/master/dist/neanthal.js"></script>
+<script src="https://unpkg.com/neanthal@0.1.0/dist/neanthal.js"></script>
 ```
 
 ## 사용법
