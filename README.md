@@ -33,6 +33,8 @@ toNeanthal('함께') // 에끄마흐
 toNeanthal('모두 함께') // 우돔 에끄마흐
 ```
 
+[데모 페이지](https://fallroot.dev/demos/neanthal)
+
 ## 아이콘
 
 Icons made by [Freepik](https://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
